@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1714854307 source:e:\arthu\documents\codeblocks\estrutura de dados\trabalhom2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cctype>
+	"Pilha.h"
+	"Calculadora.h"
+
+1714854233 e:\arthu\documents\codeblocks\estrutura de dados\trabalhom2\pilha.h
+
+1714854247 e:\arthu\documents\codeblocks\estrutura de dados\trabalhom2\calculadora.h
+	"Pilha.h"
+	"Pilha.h"
+
