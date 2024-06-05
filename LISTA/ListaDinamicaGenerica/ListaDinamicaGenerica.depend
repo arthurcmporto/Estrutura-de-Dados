@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1714483763 source:e:\arthu\documents\codeblocks\estrutura de dados\lista\listadinamicagenerica\main.cpp
+	<iostream>
+	"ListaDinamicaGenerica.h"
+
+1714483908 e:\arthu\documents\codeblocks\estrutura de dados\lista\listadinamicagenerica\listadinamicagenerica.h
+	<iostream>
+
